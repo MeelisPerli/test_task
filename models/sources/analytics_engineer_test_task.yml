@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: analytics_engineer_test_task
+    tables:
+      - name: orders
+      - name: parts
+      - name: parts_surface_finish_config
